@@ -1,3 +1,4 @@
+
 # SQL Concepts and Examples
 
 ## 1. Basic SQL Syntax
